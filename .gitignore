@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.jpg
-*.png
-/tmp/
-.env
-.venv/
-user_*.jpg
-final_*.png

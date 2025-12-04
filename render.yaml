@@ -1,8 +1,0 @@
-services:
-  - type: worker
-    name: volunteer_bot
-    runtime: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python3 bot.py"
-    envVars:
-      PYTHON_VERSION: 3.11.6
